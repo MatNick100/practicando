@@ -1,0 +1,36 @@
+.contenedor {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+
+}
+
+
+
+.card {
+
+
+    margin-top: 20px;
+
+    margin-right: 10px;
+
+}
+
+footer {
+    margin-top: 10px;
+    background-color: aqua;
+    display: flex;
+
+    justify-content: center;
+
+}
+
+.txt_Footer {
+
+
+    margin-bottom: 0;
+    font-size: 20px;
+}
